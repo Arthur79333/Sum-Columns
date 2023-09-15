@@ -1,7 +1,7 @@
 # Sum-Columns
 
-program in Python called "sum-columns.py" where you pass a CSV file name and a column number as arguments.  
-The program should return the sum of values in the column.  
+**program in Python called "sum-columns.py" where you pass a CSV file name and a column number as arguments.  
+The program should return the sum of values in the column.**  
 
 Example usage:  
 
